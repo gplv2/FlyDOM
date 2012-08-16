@@ -13,10 +13,11 @@
  * Dual licensed under the MIT (MIT-LICENSE.txt)
  * and GPL (GPL-LICENSE.txt) licenses.
  *
- * @version     $Id: jquery.flydom-3.1.0.js 9 2007-09-12 22:20:23Z dohpaz $
+ * @version     $Id: jquery.flydom-3.1.2.js 9 2012-08-16 20:21:23Z glenn $
  *
  * @author      Ken Stanley [dohpaz at gmail dot com]
- * @copyright   (C) 2007. All rights reserved.
+ * @author      Glenn Plas [[glenn at byte-consult dot be]
+ * @copyright   (C) 2012. All rights reserved.
  *
  * @license     http://www.opensource.org/licenses/mit-license.php
  * @license     http://www.opensource.org/licenses/gpl-license.php
